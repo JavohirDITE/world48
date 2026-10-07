@@ -1,0 +1,19 @@
+{
+  "name": "WORLD 48 — Чемпионат мира 2026",
+  "short_name": "WORLD 48",
+  "description": "Футбол по регламенту чемпионата мира 2026: 48 сборных, настоящие составы, VAR, онлайн с друзьями.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "related_applications": [{ "platform": "webapp", "url": "https://javohirdite.github.io/world48/manifest.webmanifest" }],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
